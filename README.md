@@ -1,2 +1,2 @@
 # MassfaxAgingReports
-Mass fax Aging and reports automation with excel macro 
+Mass fax and Aging reports automation with excel macro 
